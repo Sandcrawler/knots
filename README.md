@@ -1,6 +1,6 @@
 # knots
 
-document on applying a turing state machine to the Conway - Picirillo Knot and using similar patterning to produce a combined state machine diagram.
+document on applying a turing state machine to the Conway - Piccirillo Knot and using similar patterning to produce a combined state machine diagram.
 
 It should be noted that reading the below document first is almost mandatory to understanding some of the output in this document.
 
