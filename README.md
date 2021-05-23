@@ -6,6 +6,10 @@ it should be noted that reading the below document first is almost mandatory to 
 
 https://github.com/Sandcrawler/hypercube
 
+v2 makes changes based on observations in:
+
+https://github.com/Sandcrawler/matrices
+
 Lee Barnard
 
 leebarnard00@gmail.com
